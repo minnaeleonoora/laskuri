@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -23,3 +24,8 @@
   color: #61dafb;
 }
 
+.tausta {
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
